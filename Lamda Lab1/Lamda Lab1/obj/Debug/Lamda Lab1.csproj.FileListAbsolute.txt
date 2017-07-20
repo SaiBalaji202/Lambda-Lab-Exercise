@@ -1,0 +1,6 @@
+c:\users\balaj\documents\visual studio 2017\Projects\Lamda Lab1\Lamda Lab1\bin\Debug\Lamda Lab1.exe.config
+c:\users\balaj\documents\visual studio 2017\Projects\Lamda Lab1\Lamda Lab1\bin\Debug\Lamda Lab1.exe
+c:\users\balaj\documents\visual studio 2017\Projects\Lamda Lab1\Lamda Lab1\bin\Debug\Lamda Lab1.pdb
+c:\users\balaj\documents\visual studio 2017\Projects\Lamda Lab1\Lamda Lab1\obj\Debug\Lamda Lab1.csprojResolveAssemblyReference.cache
+c:\users\balaj\documents\visual studio 2017\Projects\Lamda Lab1\Lamda Lab1\obj\Debug\Lamda Lab1.exe
+c:\users\balaj\documents\visual studio 2017\Projects\Lamda Lab1\Lamda Lab1\obj\Debug\Lamda Lab1.pdb
